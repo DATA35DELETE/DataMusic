@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# DataMusic
 
 ## What is DataMusic?
@@ -18,3 +19,7 @@ DataMusic is an open-source local music player. What sets it apart is that DataM
 
 ## Installation
     git clone https://github.com/DATA35DELETE/DataMusic.git
+=======
+# DataMusic
+A music player that works locally and can download music on demand.
+>>>>>>> 4e55ffd8a29c309fedff40afb9608bfd61129b3f
