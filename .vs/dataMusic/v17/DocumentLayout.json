@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CODEs\\C#\\dataMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|a:\\codes\\c#\\datamusic\\readmetr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|solutionrelative:readmetr.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|a:\\codes\\c#\\datamusic\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|a:\\codes\\c#\\datamusic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|A:\\CODEs\\C#\\dataMusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{111C2C2C-07B8-4AA4-88C5-D747A923D76E}|dataMusic.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "READMEtr.md",
+              "DocumentMoniker": "A:\\CODEs\\C#\\dataMusic\\READMEtr.md",
+              "RelativeDocumentMoniker": "READMEtr.md",
+              "ToolTip": "A:\\CODEs\\C#\\dataMusic\\READMEtr.md",
+              "RelativeToolTip": "READMEtr.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-19T19:21:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "A:\\CODEs\\C#\\dataMusic\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "A:\\CODEs\\C#\\dataMusic\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-19T19:07:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "A:\\CODEs\\C#\\dataMusic\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "A:\\CODEs\\C#\\dataMusic\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAQwIcBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T16:44:07.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "A:\\CODEs\\C#\\dataMusic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "A:\\CODEs\\C#\\dataMusic\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T16:44:08.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
